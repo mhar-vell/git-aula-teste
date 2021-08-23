@@ -1,4 +1,4 @@
-%%
+%% 
 %% IEEEtran.cls 2015/08/26 version V1.8b
 %% 
 %% This is the IEEEtran LaTeX class for authors of the Institute of 
@@ -31,7 +31,6 @@
 %%                                     See:
 %%                                     http://www.michaelshell.org/
 %%                                     for current contact information.
-%%
 %% Special thanks to Peter Wilson (CUA) and Donald Arseneau
 %% for allowing the inclusion of the \@ifmtarg command 
 %% from their ifmtarg LaTeX package. 
