@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex a-article"] 1613937088 "a-article.aux" "a-article.bbl" "a-article" 1629760006
+["bibtex a-article"] 1630109505 "a-article.aux" "a-article.bbl" "a-article" 1630109527
   "/usr/share/texlive/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1440712899 57748 7c8250ecf02814ce6ddc0cdbb63df1dd ""
   "Bibliography.bib" 1629759920 1516 ef55194d64672e662f0368c31cde9103 ""
-  "a-article.aux" 1629760005 2547 f98642de5bf6a8ca35595b7daaa4005e "pdflatex"
+  "a-article.aux" 1630109527 2734 d5b95df9b8e2bf26e8d0d70782439367 "pdflatex"
   (generated)
-  "a-article.bbl"
   "a-article.blg"
-["pdflatex"] 1629760005 "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.tex" "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.pdf" "a-article" 1629760006
+  "a-article.bbl"
+["pdflatex"] 1630109527 "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.tex" "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.pdf" "a-article" 1630109527
   "/etc/texmf/web2c/texmf.cnf" 1626906075 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.aux" 1629760005 2547 f98642de5bf6a8ca35595b7daaa4005e ""
-  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.tex" 1629760004 16058 031cf0b9eb1fca4b89701add7cff6f63 ""
+  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.aux" 1630109527 2734 d5b95df9b8e2bf26e8d0d70782439367 ""
+  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.tex" 1630109526 16371 3803f34e6e3b621a3633b03c72293250 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -107,13 +107,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1626906115 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1626906125 8257155 26eae12acbfb4a64391a2f9f1106cafa ""
-  "a-article.aux" 1629760005 2547 f98642de5bf6a8ca35595b7daaa4005e "pdflatex"
-  "a-article.bbl" 1629759920 2033 088ab06b4fc54290407038918a3a4710 "bibtex a-article"
-  "a-article.tex" 1629760004 16058 031cf0b9eb1fca4b89701add7cff6f63 ""
+  "a-article.aux" 1630109527 2734 d5b95df9b8e2bf26e8d0d70782439367 "pdflatex"
+  "a-article.bbl" 1630109505 2033 088ab06b4fc54290407038918a3a4710 "bibtex a-article"
+  "a-article.tex" 1630109526 16371 3803f34e6e3b621a3633b03c72293250 ""
   "images/fig1.png" 1629759920 4535 3b4c70b1b9361fad686e8d234c8fe506 ""
   (generated)
-  "a-article.log"
-  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.log"
   "a-article.aux"
+  "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.log"
   "a-article.pdf"
   "/home/alexandre/Documents/GitHub/git-aula-teste/a-article.pdf"
+  "a-article.log"
